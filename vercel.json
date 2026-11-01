@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://irctc-agent-backend-50046493714.development.catalystappsail.in/api/:path*"
+      "destination": "https://irctc-backend-1-rtjd.onrender.com/api/:path*"
     },
     {
       "source": "/(.*)",
